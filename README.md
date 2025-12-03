@@ -10,6 +10,18 @@ Key changes:
 
 ### Installation
 
+#### Dependencies
+
+Build dependencies:
+```
+gcc
+```
+
+Runtime dependencies:
+```
+libevent
+```
+
 #### From source
 
 ```bash
